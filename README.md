@@ -3,9 +3,6 @@ I'm a Computer Science undergratuate student at [Universidade Federal de São Ca
 
 - 💼  Currently a R&D Intern @ [Motorola Mobility](http://motorola.com/)
 - 📚  Most of my work was done in C/C++ and/or Python, but I'm open to learning all kinds of technologies
-- 🌱  Interested in studying more about Algorithms, Information Security, Operating Systems and Distributed Systems.
-
-My repos are mostly school work, but if there is anything that you're interested in, feel free to extend/fix anything.
 
 [Linkedin](https://www.linkedin.com/in/joaovicmendes/)
 
