@@ -1,10 +1,11 @@
 ### Hi, I'm João 😄 
 I'm a Computer Science undergratuate student at [Universidade Federal de São Carlos](https://www2.ufscar.br/).
 
-- 💼  Currently a R&D Intern @ [Motorola Mobility](http://motorola.com/)
-- 📚  Most of my work was done in C/C++ and/or Python, but I'm open to learning all kinds of technologies
+- 💼  R&D Intern @ [Motorola Mobility](http://motorola.com/)
+- 📚  Most of my work was done in C, C++ and Python.
+- 📓  Currently learning about Node.js for Web Development and Computer Networks.
 
-[Linkedin](https://www.linkedin.com/in/joaovicmendes/)
+Reach me out on [Linkedin](https://www.linkedin.com/in/joaovicmendes/).
 
 <!--
 **joaovicmendes/joaovicmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
