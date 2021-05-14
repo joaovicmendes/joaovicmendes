@@ -3,7 +3,7 @@ I'm a Computer Science undergratuate student at [Universidade Federal de São Ca
 
 - 💼  R&D Intern @ [Motorola Mobility](http://motorola.com/)
 - 📚  Most of my work was done in C, C++ and Python.
-- 📓  Currently learning about Node.js for Web Development and Computer Networks.
+- 📓  Currently learning about Web Development and Computer Networks.
 
 Reach me out on [Linkedin](https://www.linkedin.com/in/joaovicmendes/).
 
