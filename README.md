@@ -7,7 +7,10 @@ I'm a Computer Science undergratuate student at [Universidade Federal de São Ca
 
 Reach me out on [Linkedin](https://www.linkedin.com/in/joaovicmendes/).
 
-<center><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaovicmendes&theme=buefy"/></center>
+<center>
+<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaovicmendes&theme=buefy"/>
+<img width="490px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicmendes&hide=html,tex,Jupyter Notebook, java&layout=compact&theme=buefy"/>
+</center>
 
 <!--
 **joaovicmendes/joaovicmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
