@@ -2,6 +2,7 @@
 I'm a Computer Science undergratuate student at [Universidade Federal de São Carlos](https://www2.ufscar.br/).
 
 - 💼  Software Engineering Intern @ [Daitan Group](https://www.daitan.com/)
+- 📱  Previously R&D Engineering Intern @ [Motorola Mobility](https://motorola.com/)
 - 📚  Most of my work was done in C, C++ and Python.
 - 📓  Currently learning about Web Development and Computer Networks.
 
