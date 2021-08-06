@@ -6,11 +6,11 @@ I'm a Computer Science undergratuate student at [Universidade Federal de São Ca
 - 📚  Most of my work was done in C, C++ and Python.
 - 📓  Currently learning about Web Development and Computer Networks.
 
-Reach me out on [Linkedin](https://www.linkedin.com/in/joaovicmendes/).
+Reach out to me on [Linkedin](https://www.linkedin.com/in/joaovicmendes/).
 
 <center>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicmendes&hide=html,tex,Jupyter Notebook, css,java&layout=compact&theme=buefy"/>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=joaovicmendes&theme=buefy"/>
+  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicmendes&hide=html,tex,Jupyter Notebook, css,java&layout=compact&theme=buefy"/>
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=joaovicmendes&theme=buefy"/>
 </center>
 
 <!--
