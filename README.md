@@ -6,7 +6,7 @@ I'm a Computer Science undergratuate student at [Universidade Federal de São Ca
 - 📚  My main interests are Algorithms, Data Structures, Combinatorial Optimization and Graph Theory.
 - 🌱  Most repos are school work, but if anything catches your eye, feel free to contribute/fork.
 
-Reach out to me on [Linkedin](https://www.linkedin.com/in/joaovicmendes/).
+Reach out to me on <a href="https://www.linkedin.com/in/joaovicmendes/" target="_blank">Linkedin</a>.
 
 <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicmendes&hide=html,tex,Jupyter Notebook, css,java&layout=compact&theme=buefy"/>
 
