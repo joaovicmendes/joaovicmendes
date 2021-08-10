@@ -1,17 +1,16 @@
 ### Hi, I'm João 😄 
 I'm a Computer Science undergratuate student at [Universidade Federal de São Carlos](https://www2.ufscar.br/).
 
-- 💼  Software Engineering Intern @ [Daitan Group](https://www.daitan.com/)
-- 📱  Previously R&D Engineering Intern @ [Motorola Mobility](https://motorola.com/)
-- 📚  Most of my work was done in C, C++ and Python.
-- 📓  Currently learning about Web Development and Computer Networks.
+- 💼  Software Engineer Intern @ [Daitan Group](https://www.daitan.com/)
+- 📱  Previously Software Engineer Intern @ [Motorola Mobility](https://motorola.com/)
+- 📚  My main interests are Algorithms, Data Structures, Combinatorial Optimization and Graph Theory.
+- 🌱  Most repos are school work, but if anything catches your eye, feel free to contribute/fork.
 
 Reach out to me on [Linkedin](https://www.linkedin.com/in/joaovicmendes/).
 
-<center>
-  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicmendes&hide=html,tex,Jupyter Notebook, css,java&layout=compact&theme=buefy"/>
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=joaovicmendes&theme=buefy"/>
-</center>
+<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicmendes&hide=html,tex,Jupyter Notebook, css,java&layout=compact&theme=buefy"/>
+
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=joaovicmendes&theme=buefy"/>
 
 <!--
 **joaovicmendes/joaovicmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
