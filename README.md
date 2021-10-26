@@ -1,8 +1,8 @@
 ### Hi, I'm João 😄 
 I'm a Computer Science undergratuate student at [Universidade Federal de São Carlos](https://www2.ufscar.br/).
 
-- 💼  Software Engineer Intern @ [Daitan Group](https://www.daitan.com/)
-- 📱  Previously Software Engineer Intern @ [Motorola Mobility](https://motorola.com/)
+- 💼  Software Engineer @ [Daitan Group](https://www.daitan.com/)
+- 📱  Previously @ [Motorola Mobility](https://motorola.com/)
 - 📚  My main interests are Algorithms, Data Structures, Combinatorial Optimization and Graph Theory.
 - 🌱  Most repos are school work, but if anything catches your eye, feel free to contribute/fork.
 
