@@ -1,16 +1,14 @@
 ### Hi, I'm João 😄 
-I'm a Computer Science undergratuate student at [Universidade Federal de São Carlos](https://www2.ufscar.br/).
 
-- 💼  Software Engineer @ [Daitan Group](https://www.daitan.com/)
-- 📱  Previously @ [Motorola Mobility](https://motorola.com/)
-- 📚  My main interests are Algorithms, Data Structures, Combinatorial Optimization and Graph Theory.
+- 💼  Software Engineer @ [Daitan Group](https://www.daitan.com/), developing microservices with TypeScript
+- 📱  Previously @ [Motorola Mobility](https://motorola.com/), working with C++ and ShellScript
+- 🎓  Computer Science @ [Universidade Federal de São Carlos](https://www2.ufscar.br/).
+- 📚  My main interests are Algorithms, Optimization, Distributed Systems and Graph Theory.
 - 🌱  Most repos are school work, but if anything catches your eye, feel free to contribute/fork.
 
 Reach out to me on <a href="https://www.linkedin.com/in/joaovicmendes/" target="_blank">Linkedin</a>.
 
 <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicmendes&hide=html,tex,Jupyter Notebook, css,java&layout=compact&theme=buefy"/>
-
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=joaovicmendes&theme=buefy"/>
 
 <!--
 **joaovicmendes/joaovicmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
