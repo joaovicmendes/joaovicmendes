@@ -8,7 +8,7 @@
 
 Reach out to me on <a href="https://www.linkedin.com/in/joaovicmendes/" target="_blank">Linkedin</a>.
 
-<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicmendes&hide=html,tex,Jupyter Notebook, css,java&layout=compact&theme=buefy"/>
+<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicmendes&hide=html,tex,Jupyter Notebook, css&layout=compact&langs_count=8&theme=buefy"/>
 
 <!--
 **joaovicmendes/joaovicmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
