@@ -9,5 +9,5 @@
 Reach out to me on <a href="https://www.linkedin.com/in/joaovicmendes/" target="_blank">Linkedin</a>.
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicmendes&layout=compact&langs_count=8&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicmendes&layout=compact&langs_count=8&theme=buefy&hide=html,tex,Jupyter%20Notebook,dart,plsql,css"/>
 </div>
